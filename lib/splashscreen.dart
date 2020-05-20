@@ -17,7 +17,7 @@ class _SplashScreenState extends State<SplashScreen> {
         children: <Widget>[
           Container(
             color: Colors.blue,
-            child: FlareActor("assets/Patas.flr",
+            child: FlareActor("assets/Pata.flr",
                 alignment: Alignment.center,
                 fit: BoxFit.contain,
                 animation: "opacidade"),
